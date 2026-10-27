@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "reservations": [
+    {
+      "versionCode": 3,
+      "commit": "5ebfcd493b1f39325c4dd287f5e2c3eefa574330",
+      "sha256": "48657080d7798478125c7618cfc2290a8668e1952805da5956a8f84e5421fa83"
+    }
+  ],
+  "published": [],
+  "envelope": null
+}
